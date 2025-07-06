@@ -5,7 +5,7 @@
 
 ## 🔥 About Me
 
-- 🧑‍💻 Currently working with **Linux, Docker, Jenkins, Kubernetes, and AWS**
+- 🧑‍💻 Currently working with **Linux, Github, Docker, Jenkins, Kubernetes, and AWS**
 - ✍️ I regularly share articles on DevOps & Cloud
 - 💬 Ask me about **DevOps, Laravel, APIs, AWS, and Cloud Tools**
 - 📫 How to reach me: hardiksharmatik@gmail.com
