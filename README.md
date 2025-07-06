@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Hardik Sharma A Passionate DevOps Engineer
-- 🚀 Implementing my DevOps skills to drive automation and efficiency in organizations.
+# 👋 Hi, I'm Hardik Sharma – A Passionate DevOps & Full-Stack Engineer
+
+🚀 Implementing my DevOps and Web Development skills to build scalable and efficient solutions.
 
 
 ## 🔥 About Me
