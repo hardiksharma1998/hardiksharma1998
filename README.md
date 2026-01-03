@@ -13,7 +13,7 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hardiksharmadevops/)
-[![Blog](https://img.shields.io/badge/Blog-Read%20Articles-orange)](https://hardiksharma1998.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-Read%20Articles-orange)](https://hardiksharma1998.github.io/hardik-devops-portfolio/)
 
 
 ## 🛠️ Languages & Tools
